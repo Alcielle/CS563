@@ -1,0 +1,18 @@
+/** @format */
+
+.img {
+  display: block;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+p::first-line {
+  font-variant: small-caps;
+}
+
+.bio {
+  margin: 20px auto;
+  width: 300px;
+}
